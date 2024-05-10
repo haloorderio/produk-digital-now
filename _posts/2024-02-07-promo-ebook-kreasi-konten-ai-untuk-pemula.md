@@ -17,8 +17,11 @@ Ebook ini mengajarkan cara membuat kalimat deskriptif (prompt) untuk menghasilka
 Kemampuan menghasilkan gambar pake AI dari teks disebut Skill Prompting.
 
 **Apa manfaat memiliki skill prompting?**
+
 💥 Bantu kamu menghasilkan visual konten lebih menarik
+
 💥 Bantu kamu membuat kreasi gambar sesuai imajinasi
+
 💥 Buka peluang monetisasi baru memanfaatkan AI
 
 Ebook ini berisi 14 halaman. Materi di ebook ini merupakan potongan kecil dari versi full di kelas online-nya.
