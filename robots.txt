@@ -1,0 +1,4 @@
+Sitemap: https://minidigital.my.id/sitemap.xml
+User-agent: *
+
+Allow: /
