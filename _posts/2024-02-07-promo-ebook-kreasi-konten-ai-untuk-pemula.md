@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EBOOK: Rahasia Kreasi Konten AI Tanpa Batas untuk Pemula
+title: EBOOK Rahasia Kreasi Konten AI Tanpa Batas untuk Pemula
 description: Promo Ebook AI Text to Image - ORDERIO
 price: "29.000"
 price_promo: "19.000"
