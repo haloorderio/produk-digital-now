@@ -24,7 +24,8 @@ assets: '2024-03-13T07:09:00Z'
 theme_color: '#fff'
 
 # Open Graph Protocol or Twitter Card image
-thumbnail: /assets/img/ogp.jpeg
+# thumbnail: /assets/img/ogp.jpeg
+thumbnail: /assets/img/banner-main.jpeg
 
 # WhatsApp number for order
 whatsapp_number: 628812678548
