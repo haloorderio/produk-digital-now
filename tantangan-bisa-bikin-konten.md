@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Daftar Tantangan 7 Hari Bikin Konten
 permalink: /tantangan-bisa-bikin-konten.html
 ---
