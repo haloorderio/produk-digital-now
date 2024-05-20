@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Daftar Tantangan 7 Hari Bikin Konten
+title: Check Out Test 1
 permalink: /check-out-test1.html
 ---
 
