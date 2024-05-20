@@ -39,7 +39,6 @@ _Disclaimer:_
 
 	<br>
 	<center>
-	<a class="mayar-button iframe-lightbox-link" href="https://muhnurulhakim.mayar.link/pl/ebook-rahasia-kreasi-konten-ai-tanpa-batas-untuk-pemula?iframe=true" data-padding-bottom="30%" data-scrolling="true"><span></span>Beli Sekarang</a>
-	</center>
- 
+	<a class="mayar-button iframe-lightbox-link" href="https://muhnurulhakim.mayar.link/pl/ebook-rahasia-kreasi-konten-ai-tanpa-batas-untuk-pemula?iframe=true" data-padding-bottom="30%" data-scrolling="true"><span></span>Beli Sekarang</a> 
 	<script type="text/javascript" src="https://pub-fa933e278fb7467aa20592e0a61f5082.r2.dev/mayar-new-min.js"></script>
+	</center>
