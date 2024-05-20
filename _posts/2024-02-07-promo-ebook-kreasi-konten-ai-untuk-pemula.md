@@ -31,7 +31,15 @@ _Disclaimer:_
 * Jika ingin merasakan manfaatnya, butuh Praktek! 🔥
 
 
-<center><a href="https://muhnurulhakim.mayar.link/pl/ebook-rahasia-kreasi-konten-ai-tanpa-batas-untuk-pemula" target="_blank" rel="noopener" class="bg-emerald-500 hover:bg-emerald-600 text-white block py-3 px-4 rounded-lg w-full text-center mt-4" style="color:white;text-decoration:none">
+<center>
+	<a href="https://muhnurulhakim.mayar.link/pl/ebook-rahasia-kreasi-konten-ai-tanpa-batas-untuk-pemula" target="_blank" rel="noopener" class="bg-emerald-500 hover:bg-emerald-600 text-white block py-3 px-4 rounded-lg w-full text-center mt-4" style="color:white;text-decoration:none">
 				🔥Beli Sekarang🔥
-	</a></center>
+	</a>
+</center>
 
+	<br>
+	<center>
+	<a class="mayar-button iframe-lightbox-link" href="https://muhnurulhakim.mayar.link/pl/ebook-rahasia-kreasi-konten-ai-tanpa-batas-untuk-pemula?iframe=true" data-padding-bottom="30%" data-scrolling="true"><span></span>Beli Sekarang</a>
+	</center>
+ 
+	<script type="text/javascript" src="https://pub-fa933e278fb7467aa20592e0a61f5082.r2.dev/mayar-new-min.js"></script>
